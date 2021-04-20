@@ -28,7 +28,7 @@ We showed a method which utilised the concept of covariate shift and proved that
  - [LGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
  - [Aggreation and Magic Features](https://www.kaggle.com/cdeotte/xgb-fraud-with-magic-0-9600) (**Credits - Chris Deotte**)
   
-## Achievement :star::star:
+## :sparkles: Achievement
 
 **We got 1st position in the event while applying this approach.**
 
