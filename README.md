@@ -32,7 +32,7 @@ We showed a method which utilised the concept of covariate shift and proved that
 
 **We got 1st position in the event while applying this approach.**
 
-<h2 align = "center"> Visualisation Snapshots </h2>
+<h2 align = "center"> Visulaisation Snapshots </h2>
 
 <p align="center">
     <img height="250" width="300" src="Cassandra images/Beta_C.png">
@@ -42,4 +42,39 @@ We showed a method which utilised the concept of covariate shift and proved that
     <img  height="250" width="300" src="Cassandra images/Delta.png"><br>
     <b>Alpha with labels(left) and Delta with labels(right)</b><br>
  </p>
+
+
+## **Team - CREATORZ** :sparkles::sparkles:
+
+<table>
+   <td align="center">
+      <a href="https://github.com/monako2001">
+         <img src="https://avatars2.githubusercontent.com/u/56964886?s=400&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Mainak Samanta</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/Akshatsood2249">
+         <img src="https://avatars3.githubusercontent.com/u/68052998?s=400&u=d83d34a2596dc22bef460e3545e76469d2c72ad9&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Akshat Sood</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/Amshra267">
+         <img src="https://avatars1.githubusercontent.com/u/60649720?s=460&u=9ea334300de5e3e7586af294904f4f76c24f5424&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Aman Mishra</b>
+      </a>
+      <br />
+   </td>
+</table>
 
