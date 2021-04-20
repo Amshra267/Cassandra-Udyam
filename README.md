@@ -7,7 +7,7 @@
 This Repo Contains the notebook and presentation of Our Approach which we used and presented during the competition Cassandra organised by Udyam'21.
 In the competition we have to identify the defaulter based on the demographics data and payment_history.<br>
 
-For more info about competition [Here](https://www.kaggle.com/c/cassandra-udyam21)
+For more info about competition visit - [Here](https://www.kaggle.com/c/cassandra-udyam21)
 
 Presentation of Our Approach - [Here](https://www.canva.com/design/DAEb9SgEPfU/PyGTl3_zXOAIScjpzl86Cg/view?utm_content=DAEb9SgEPfU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
@@ -30,7 +30,7 @@ We showed a method which utilised the concept of covariate shift and proved that
   
 ## Achievement
 
-We got 1st position in the event while applying this approach.
+**We got 1st position in the event while applying this approach.**
 
 <h2 align = "center"> Visulaisation Snapshots </h2>
 
