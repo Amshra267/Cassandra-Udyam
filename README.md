@@ -32,7 +32,7 @@ We showed a method which utilised the concept of covariate shift and proved that
 
 **We got 1st position in the event while applying this approach.**
 
-<h2 align = "center"> Visulaisation Snapshots </h2>
+<h2 align = "center"> Visualisation Snapshots </h2>
 
 <p align="center">
     <img height="250" width="300" src="Cassandra images/Beta_C.png">
